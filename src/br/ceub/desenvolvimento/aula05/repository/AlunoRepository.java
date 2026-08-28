@@ -2,7 +2,6 @@ package br.ceub.desenvolvimento.aula05.repository;
 
 import java.util.ArrayList;
 import java.util.List;
-
 import br.ceub.desenvolvimento.aula05.model.Aluno;
 
 public class AlunoRepository {

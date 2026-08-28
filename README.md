@@ -2,11 +2,11 @@
 
 Classroom: Classroom 50
 Assignment: aula05-cadastro-alunos-dupla
-Turma:
-Dupla:
-Integrante A:
-Integrante B:
-Data:
+Turma:desenvolvimento de sistemas
+Dupla:Gabriel barbosa e Carlos
+Integrante A:Gabriel barbosa
+Integrante B: Carlos 
+Data:28/08/2026
 
 ## Atenção sobre o repositório
 

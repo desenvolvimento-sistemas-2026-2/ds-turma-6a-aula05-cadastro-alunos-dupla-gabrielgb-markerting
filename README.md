@@ -176,8 +176,10 @@ Testar:
 ## Registro da divisão de tarefas
 
 **Integrante A:**
+Criou e Editou o Aluno Repository
 
 **Integrante B:**
+Criou e Editou Menu Alunos
 
 ## Commits obrigatórios
 
